@@ -1,0 +1,34 @@
+.comment_body{
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.img_thumb{
+    background-color: white;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.username{
+    color: dodgerblue;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.cmnt_txt{
+    padding-left: 50px;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+.edit_cmnt{
+    font-size: 10px;
+    padding-bottom: 1px;
+    padding-top: 2px;
+    margin-left: 50px;
+}
+
+.edit_cmnt:hover{
+    cursor: pointer;
+}
