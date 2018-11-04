@@ -1,9 +1,7 @@
 .PostBody{
     width: 600px;
     height: auto;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 50px auto 100px;
     background-color: #f0f0f0;
     border-radius: 5px;
     padding: 15px;
@@ -19,7 +17,7 @@
     margin-bottom: 5px;
 }
 
-.PostBody .name{
+.PostBody .username{
     color: dodgerblue;
     text-align: left;
 }

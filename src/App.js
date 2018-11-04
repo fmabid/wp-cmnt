@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import classes from './App.css';
 
 import Post from './components/Post/Post';
-import Comment from './components/Comment/Comment';
 
 class App extends Component {
   render() {
